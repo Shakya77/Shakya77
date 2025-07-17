@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a web developer who loves building full-stack 
 - 🔧 Experienced in Laravel, React, JavaScript, PHP, and MySQL.
 - 🌱 Currently learning more about advanced React, API integration, and system design.
 - 🎯 I enjoy solving backend challenges and designing user-friendly interfaces.
-- 📬 Reach out to me: bijanshakya.dev@gmail.com
+- 📬 Reach out to me: bijanshakya145@gmail.com
 
 ---
 
@@ -25,6 +25,7 @@ Welcome to my GitHub profile! I'm a web developer who loves building full-stack 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
 ### Database & Tools
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
@@ -45,9 +46,8 @@ Welcome to my GitHub profile! I'm a web developer who loves building full-stack 
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bijan-shakya)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/bijanshakya)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white)](https://yourportfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/bijan-shakya](https://www.linkedin.com/in/bijan-shakya-56b50b2b6/))
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://instagram.com/bijanshakya](https://www.instagram.com/bijan.shakya/))  
 
 ---
 
