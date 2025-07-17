@@ -39,9 +39,9 @@ Welcome to my GitHub profile! I'm a web developer who loves building full-stack 
 
 ## 📈 GitHub Stats
 
-![Bijan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shakya77&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shakya77&layout=compact&theme=tokyonight)
+![Bijan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bijanshakya&show_icons=true&theme=tokyonight)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bijanshakya&layout=compact&theme=tokyonight)
 ---
 
 ## 🌐 Connect with Me
